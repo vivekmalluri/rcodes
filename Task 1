@@ -1,0 +1,2 @@
+newarray = array(6:30,dim = c(4,3,2),dimnames = list(c("rows-1","rows-2","rows-3","rows-4"),c("column-1","column-2","column-3"),c("part-1","part-2")))
+print(newarray)
